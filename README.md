@@ -41,4 +41,17 @@ The target of this analysis is the price of the houses. Let’s take a look at t
 
 ![Picture2](https://user-images.githubusercontent.com/95050679/144139483-4cb105d3-9dfb-43a5-a008-e4e5ba6fdd29.png)
 
+From the histogram of price distribution, we can infer that frequency is higher for houses within price range $300000-$500000. Price distribution is highly right-skewed and shows a normal distribution with a long tail to the right. 
+ 
+A box plot is a graphical representation of 5-point statistics to help us understand the spread and centrality of data. Below are the key points that we can see in a box plot:
+- Minimum: minimum value in the data set
+- Maximum: maximum value in the data set
+- Median: the “middle” value when the data set is sorted in ascending order
+- First quartile: it indicates 25% of the data when the data set is sorted in ascending order
+- Third quartile: it indicates 75% of the data when the data set is sorted in ascending order
+
+![Picture3](https://user-images.githubusercontent.com/95050679/144139734-d8b39626-1789-42bc-a15a-abf002cc8be9.png)
+
+We can infer from above figure that the most expensive house cost around $7.7 million and the data for price is highly right skewed. These outliers of high value cannot be removed from the data set, as they are not irregularities but examples of the luxury market in the region. Outliers are evident to be above ~12,00,000$.
+
 
