@@ -8,7 +8,7 @@ The dataset that was used for this project consists of sales data between May 20
 
 In this analysis, I used several Python packages/techniques including, but not limited to: Pandas, NumPy, Matplotlib and Sci-kit Learn, which will all be highlighted in the following sections of this report, and can be viewed in the Python code for the project. Ultimately, My main objective is to understand the trend in housing prices for King County during this time period; along with what factors have the largest influence on price.
 
-**##Data Cleaning/Pre-Processing##**
+**Data Cleaning/Pre-Processing**
 
 1.	After the data is loaded, the date column has been parsed through the datetime package to make it readable in pandas. The whole data is then checked for missing values and was found that were not any.
 
@@ -33,4 +33,4 @@ e.	1 - Very Poor
 
 7.	Value of price per square foot of living space is obtained by dividing the columns "price" with "sqft_living". These values are stored in a new column PerSqftLiving.
 
-#**Housing Price Distribution**
+**Housing Price Distribution**
