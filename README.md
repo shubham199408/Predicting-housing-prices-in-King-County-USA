@@ -32,3 +32,5 @@ d.	2 - Poor
 e.	1 - Very Poor
 
 7.	Value of price per square foot of living space is obtained by dividing the columns "price" with "sqft_living". These values are stored in a new column PerSqftLiving.
+
+#**Housing Price Distribution**
