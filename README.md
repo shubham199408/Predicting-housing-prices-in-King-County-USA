@@ -64,5 +64,5 @@ Let’s take a look at the skewness and kurtosis in numbers as shown below.
 
 The skewness is 4.024069 and kurtosis is 34.585540 which display values greater than zero. Thus, we conclude that the price distribution is right skewed. Also, the most expensive house cost $7.7 million and the median house price $450,000.
 
-**##EDA visualizations and insights**
+##**EDA visualizations and insights**
 
