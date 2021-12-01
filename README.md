@@ -64,5 +64,30 @@ Let’s take a look at the skewness and kurtosis in numbers as shown below.
 
 The skewness is 4.024069 and kurtosis is 34.585540 which display values greater than zero. Thus, we conclude that the price distribution is right skewed. Also, the most expensive house cost $7.7 million and the median house price $450,000.
 
-##**EDA visualizations and insights**
+
+**EDA visualizations and insights**
+
+Exploratory data analysis refers to the process of performing initial investigations on data to discover patterns, test conclusions using summary statistics and graphical representations. The dataset comprises 21613 rows and 22 columns.
+
+Let’s do some univariate data distribution and plot a histogram for the numerical column of the data set.
+
+**Bedrooms**
+
+If we look at the pattern of the bedrooms as seen below, the median number of bedrooms is only 3. A majority of the region’s houses have 3 or 4 bedrooms. Examining the describe function for bedrooms, a house with max. 11 bedrooms appears to exist.
+
+![image](https://user-images.githubusercontent.com/95050679/144329664-6583c4a3-0bb4-401b-a839-e27c16673be3.png)
+
+![image](https://user-images.githubusercontent.com/95050679/144329703-925cb7a0-52b6-4003-82f0-de89a52540b8.png)
+
+
+**Bathrooms:**
+The histogram of bathrooms as seen in figure 5, approximates to a normal distribution. In this case we have a distribution which is close to normal because the tail is not very long. The median bathrooms is 2.25 and the average is 2.1. The values for bathrooms are unusual because it is possible to have half- and quarter-bathrooms.
+
+![image](https://user-images.githubusercontent.com/95050679/144329760-296ccccd-6c93-441b-bd2b-6f144a23ccb0.png)
+
+![image](https://user-images.githubusercontent.com/95050679/144329773-8d6fee20-266c-4a6c-8c26-96ea33f58b02.png)
+
+
+
+
 
