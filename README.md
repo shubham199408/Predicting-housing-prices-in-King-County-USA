@@ -54,4 +54,7 @@ A box plot is a graphical representation of 5-point statistics to help us unders
 
 We can infer from above figure that the most expensive house cost around $7.7 million and the data for price is highly right skewed. These outliers of high value cannot be removed from the data set, as they are not irregularities but examples of the luxury market in the region. Outliers are evident to be above ~12,00,000$.
 
+The qq-plot of price as shown below, determines the distribution of price to be highly right skewed. Since the plot does not fit into a straight line, we can say that the price distribution is not normal.
+
+![image](https://user-images.githubusercontent.com/95050679/144329365-b6c5483c-5322-41f1-a1b2-1d29ef31e6dd.png)
 
