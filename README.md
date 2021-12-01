@@ -58,3 +58,11 @@ The qq-plot of price as shown below, determines the distribution of price to be 
 
 ![image](https://user-images.githubusercontent.com/95050679/144329365-b6c5483c-5322-41f1-a1b2-1d29ef31e6dd.png)
 
+Let’s take a look at the skewness and kurtosis in numbers as shown below. 
+
+![image](https://user-images.githubusercontent.com/95050679/144329431-cd077b5e-1b2b-45b6-87fd-a07a52eb8811.png)
+
+The skewness is 4.024069 and kurtosis is 34.585540 which display values greater than zero. Thus, we conclude that the price distribution is right skewed. Also, the most expensive house cost $7.7 million and the median house price $450,000.
+
+**EDA visualizations and insights**
+
